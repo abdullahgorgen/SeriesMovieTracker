@@ -1,6 +1,6 @@
 Hakkında:
 
-Bu uygulama, izlenilen dizi ve filmlerin detaylı bir listesini tutmak için tasarlanmıştır. Python ve CustomTkinter kullanılarak geliştirilen uygulama, kullanıcıların izledikleri içerikleri eklemelerine, puanlamalarına ve yorum yapmalarına olanak tanır. İçerikleri "İzlendi", "İzlenecek", "Bekliyor", "Favori" olarak işaretleyerek filtrelemelerini sağlar. Uygulamayı kullanabilmek için bir hesap oluşturulmalı ve giriş yapılmalıdır.
+Bu uygulama, izlenilen dizi ve filmlerin detaylı bir listesini tutmak için tasarlanmıştır. Python ve CustomTkinter kullanılarak geliştirilen uygulama, kullanıcıların izledikleri içerikleri eklemelerine, puanlamalarına ve yorum yapmalarına olanak tanır. İçerikleri "İzlendi", "İzlenecek", "Bekliyor" veya "Favori" olarak işaretleyerek filtrelemelerini sağlar. Uygulamayı kullanabilmek için bir hesap oluşturulmalı ve giriş yapılmalıdır.
 
 About:
 
